@@ -1,10 +1,12 @@
 [package]
-name = "?"
-version = "0.0.0"
+name = "laer-image-concept-block16-special-solid-select-color"
+version = "0.0.1"
 edition = "2024"
-description = "?"
+description = "取色构建"
 authors = ["FleetingLore <Macro__9@outlook.com>"] # 目前就我一个人
 license = "MIT"
-repository = "https://github.com/localLore/?"
+repository = "https://github.com/localLore/laer-image-concept-block16-special-solid-select-color"
 
 [dependencies]
+laer-image-concept = "0.1.1"
+laer-image-concept-cube141 = "0.1.0"
